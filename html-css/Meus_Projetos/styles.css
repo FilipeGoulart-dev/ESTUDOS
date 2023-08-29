@@ -1,0 +1,12 @@
+/* Estilos anteriores continuam aqui */
+
+#pokemon-image {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+.pokemon-details p {
+    text-align: center;
+}
